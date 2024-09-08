@@ -1,0 +1,3 @@
+[submodule "libs/rp2040zero_fp"]
+	path = libs/rp2040zero_fp
+	url = https://github.com/shalxmva/rp2040zero_fp

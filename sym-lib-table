@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rp2040zero_fp")(type "KiCad")(uri "${KIPRJMOD}/libs/rp2040zero_fp/kicad/rp2040zero_fp.kicad_sym")(options "")(descr ""))
+)
