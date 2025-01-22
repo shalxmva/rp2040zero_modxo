@@ -3986,10 +3986,6 @@
 		(uuid "ca532cd2-7deb-45a3-a6da-a7d009722b51")
 	)
 	(no_connect
-		(at 41.91 170.18)
-		(uuid "580f0d6e-ece0-4f4b-9dbe-7b3d794c0f4d")
-	)
-	(no_connect
 		(at 29.21 185.42)
 		(uuid "9827cbd4-d470-4092-b6ba-7ca78e10c970")
 	)
@@ -4772,6 +4768,17 @@
 			(justify left bottom)
 		)
 		(uuid "86d064e4-521f-47a6-afb8-87e13f20bac9")
+	)
+	(label "LPC 3.3"
+		(at 41.91 170.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8702aa33-df43-4629-9303-29092245d105")
 	)
 	(label "UART_TX"
 		(at 143.51 127 180)
